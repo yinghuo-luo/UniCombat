@@ -1,0 +1,10 @@
+#pragma once
+
+#include "NativeGameplayTags.h"
+
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_Backpack);
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_Equipment);
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_QuickSlot);
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_Storage);
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_InvestigationBoard);
+UE_DECLARE_GAMEPLAY_TAG_EXTERN(TAG_Inventory_Container_Player_RitualLoadout);
